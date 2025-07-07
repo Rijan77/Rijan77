@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Rijan Acharya**, a driven and creative software engineer from Nepal 🇳🇵, currently pursuing my degree in **Computer Science & Software Engineering** at the **University of Bedfordshire**.
+I'm **Rijan Acharya**, a driven and creative software engineer from Nepal, currently pursuing my degree in **Computer Science & Software Engineering** at the **University of Bedfordshire**.
 
 🔧 I craft cross-platform mobile apps using **Flutter**, with solid architecture powered by **Bloc/Cubit**  
 💻 I build scalable backend logic with **Java**, following clean code principles  

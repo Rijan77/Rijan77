@@ -6,27 +6,12 @@
 </h3>
 
 <p align="center">
-  <div style="display: inline-block; border-radius: 50%; padding: 8px; background: linear-gradient(45deg, #6a11cb, #2575fc); animation: glowPulse 3s infinite;">
-    <img src="YOUR_AVATAR_URL" alt="avatar" width="180" style="border-radius: 50%; box-shadow: 0 4px 15px rgba(37, 117, 252, 0.7);" />
-  </div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76D57&center=true&vCenter=true&width=500&lines=Flutter+%7C+Dart+%7C+Firebase+%7C+Supabase;Java+%7C+Clean+Architecture+%7C+State+Management;Cross-Platform+Apps+with+Great+UX+%26+Performance!" alt="Typing SVG" />
 </p>
 
-<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 600; font-size: 20px; color: #2575fc; margin-top: 10px;">
-  Hi, I'm <span style="color:#6a11cb;">[Your Name]</span><br/>
-  Mobile Application Developer & Software Engineer
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" />
 </p>
-
-<style>
-@keyframes glowPulse {
-  0%, 100% {
-    box-shadow: 0 0 15px 5px rgba(106, 17, 203, 0.6);
-  }
-  50% {
-    box-shadow: 0 0 25px 8px rgba(37, 117, 252, 0.8);
-  }
-}
-</style>
-
 
 ---
 

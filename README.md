@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#00BFA6;">👋 Hi, I'm Rijan Acharya</h1>
 
-<h3 align="center" style="color:#555;">Software Engineer | Flutter Developer | Firebase & Supabase Enthusiast</h3>
+<h3 align="center" style="color:#555;">Software Engineer | Mobile Application Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=Flutter+%7C+Dart+%7C+Firebase+%7C+Supabase+%7C+Java;Crafting+Reliable+Cross-Platform+Mobile+Apps;Clean+Architecture+%7C+Scalable+Code+%7C+Great+UX;" alt="Typing SVG" />

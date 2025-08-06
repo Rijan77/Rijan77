@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68688057/137184767-ec1b0720-e822-4f43-88aa-7d46f918b2d3.gif" alt="Coding" width="400" style="border-radius: 8px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200" style="border-radius: 8px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);"/>
 </p>
 
 ---

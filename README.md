@@ -2,11 +2,11 @@
   👋 Hello, I'm Rijan Acharya!
 </h1>
 <h3 align="center" style="color: #7F8C8D;">
-  💻 Software Engineer / Mobile Application Developer
+  💻 Software Engineer | Mobile Application Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76D57&center=true&vCenter=true&width=500&lines=Flutter+%7C+Dart+%7C+Firebase+%7C+Supabase;Java+%7C+Clean+Architecture+%7C+State+Management;Cross-Platform+Apps+with+Great+UX+%26+Performance!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76D57&center=true&vCenter=true&width=500&lines=Flutter+-+Firebase+-+Supabase+-+Java;Clean+Architecture+%7C+State+Management;Cross-Platform+Apps+with+Great+UX+%26+Performance!" alt="Typing SVG" />
 </p>
 
 <p align="center">

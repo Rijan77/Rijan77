@@ -1,13 +1,9 @@
-<h1 align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen'; font-weight: bold; color: #00bfa6;">
-  👋 Hey there, I'm Rijan Acharya
-</h1>
+<h1 align="center" style="color:#00BFA6;">👋 Hi, I'm Rijan Acharya</h1>
 
-<h3 align="center" style="color: #555;">
-  🚀 Software Engineer | 📱 Mobile App Developer | 🎓 CS Undergrad @ University of Bedfordshire
-</h3>
+<h3 align="center" style="color:#555;">Software Engineer | Flutter Developer | Firebase & Supabase Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=Code+with+purpose.;Design+with+impact.;Deliver+with+passion.;Flutter+%7C+Dart+%7C+Java+%7C+.NET+%7C+Firebase;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFA6&center=true&vCenter=true&width=600&lines=Flutter+%7C+Dart+%7C+Firebase+%7C+Supabase+%7C+Java;Crafting+Reliable+Cross-Platform+Mobile+Apps;Clean+Architecture+%7C+Scalable+Code+%7C+Great+UX;" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,56 +12,49 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💼 About Me
 
-Hey! I'm **Rijan**, a passionate developer from **Nepal** turning ideas into powerful mobile apps.  
-Currently pursuing **Computer Science & Software Engineering** at **University of Bedfordshire**.
+I’m **Rijan Acharya**, a software engineer based in **Nepal**, currently pursuing a degree in **Computer Science & Software Engineering** at the **University of Bedfordshire**.
 
-- 🎯 Specializing in **cross-platform mobile development** with Flutter & Dart  
-- 🧱 Backend logic with **Java**, **C# (.NET)**, and Firebase  
-- 🛠️ I care deeply about clean architecture, usability & code quality  
-- 🌍 Exploring the world of full-stack development  
-- 🤝 Always open to collaboration and learning from others
+I specialize in **cross-platform mobile development using Flutter**, and I enjoy turning design concepts and product ideas into real, scalable applications. I focus on writing clean, testable, and maintainable code with modern development practices.
+
+### 🔹 What I Do:
+- Develop fast, scalable **Flutter** apps with great performance and UI/UX
+- Integrate **Firebase** (Firestore, Auth, Cloud Messaging, etc.) and **Supabase** for real-time backend and authentication
+- Write backend logic in **Java** and work within the **.NET ecosystem**
+- Apply **Bloc/Cubit** architecture and modern state management techniques
+- Maintain a strong focus on design consistency, responsiveness, and product scalability
+
+I believe in continuous learning, clean code, and building software that adds real-world value.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
 
-## 🧠 Currently Learning
-
-<ul>
-  <li>⚙️ Clean Architecture with Flutter</li>
-  <li>🔄 Reactive Programming using Bloc/Cubit</li>
-  <li>📦 Dependency Injection & Testing</li>
-  <li>🌐 API Integration & Firebase Cloud Functions</li>
-</ul>
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rijan77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rijan77&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rijan77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rijan77&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:rijanacharya73@gmail.com"><img src="https://img.shields.io/badge/Gmail-rijanacharya73@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -75,11 +64,11 @@ Currently pursuing **Computer Science & Software Engineering** at **University o
 
 ---
 
-## 🎬 Fun Fact
+## 🎯 My Goal
 
 <p align="center" style="font-size: 1.1em;">
-  🎵 I code better when there's music in the background!  
-  🧩 Solving bugs is my version of solving puzzles.
+  I aim to build mobile applications that are <strong>fast</strong>, <strong>intuitive</strong>, and <strong>scalable</strong>.  
+  My long-term vision is to contribute to impactful tech products that improve user experiences and solve real-world challenges.
 </p>
 
 <p align="center">
@@ -89,8 +78,5 @@ Currently pursuing **Computer Science & Software Engineering** at **University o
 ---
 
 <div align="center">
-  
-✨ _"I may not know everything yet, but every day, I'm learning something new."_  
-🚧 _Work in progress — just like my code._
-
+  ⚙️ Precision. 🎯 Focus. 📱 Crafting experiences, one app at a time.
 </div>

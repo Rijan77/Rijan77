@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" alt="Developer Coding Animation" width="400" />
+  <img src="https://user-images.githubusercontent.com/68688057/137184767-ec1b0720-e822-4f43-88aa-7d46f918b2d3.gif" alt="Coding" width="400" style="border-radius: 8px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);"/>
 </p>
 
 ---

@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="400" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" />
 </p>
+
 
 
 ---

@@ -6,11 +6,12 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76D57&center=true&vCenter=true&width=500&lines=Flutter+%7C+Dart+%7C+Firebase+%7C+Supabase;Java+%7C+Clean+Architecture+%7C+State+Management;Cross-Platform+Apps+with+Great+UX+%26+Performance!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76D57&center=true&vCenter=true&width=500&lines=Code+with+Clarity+%26+Purpose;Connect+Ideas+%7C+Build+Solutions;Flutter+%7C+Dart+%7C+Firebase+%7C+Supabase;Java+%7C+Clean+Architecture+%7C+SOLID;Cross-Platform+Apps+%7C+Great+UX+%26+Performance;Lifelong+Learner+%7C+Problem+Solver" alt="Typing SVG" />
 </p>
 
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="400" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" />
+  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="500" style="border-radius: 50%; box-shadow: 0 10px 30px rgba(0,0,0,0.2);" />
 </p>
 
 

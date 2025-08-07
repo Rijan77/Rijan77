@@ -71,8 +71,9 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Ending GIF" width="600"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Ending GIF" style="width: 100%; max-width: 600px;" />
 </p>
+
 
 <div align="center">
   <strong>🚀 Let's build something exceptional, one line at a time.</strong>

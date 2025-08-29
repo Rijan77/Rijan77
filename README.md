@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76D57&center=true&vCenter=true&width=500&lines=Code+with+Clarity+%26+Purpose;Connect+Ideas+%7C+Build+Solutions;Flutter+%7C+Dart+%7C+Firebase+%7C+Supabase;Java+%7C+Clean+Architecture+%7C+SOLID;Cross-Platform+Apps+%7C+Great+UX+%26+Performance;Lifelong+Learner+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76D57&center=true&vCenter=true&width=500&lines=Code+with+Clarity+%26+Purpose;Connect+Ideas+%7C+Build+Solutions;Flutter+%7C+Dart+%7C+Firebase+%7C+Supabase;Java" alt="Typing SVG" />
 </p>
 
 
